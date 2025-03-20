@@ -171,7 +171,7 @@ void load_map(int **map, int height, int width)
 int live_coding(void) {
     sfRenderWindow *window;
     sfVideoMode mode = {1200, 900, 32};
-    window = sfRenderWindow_create(mode, "Live Coding", sfResize | sfClose, NULL);
+    window = sfRenderWindow_create(mode, "Terramorphus", sfResize | sfClose, NULL);
     Button_t **button_array = set_all_buttons();
     sfEvent event;
     sfRectangleShape *leftOverlay = sfRectangleShape_create();
