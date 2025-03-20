@@ -21,7 +21,7 @@
 
 ## About
 
-A tool developped in C to manipulate perspective and Topographic generation using Perlin Noise 
+A tool developped in C to manipulate perspective and Topographic generation using Perlin Noise in order to simulate a land.
 
 ## Features
 
